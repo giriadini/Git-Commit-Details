@@ -1,1 +1,1 @@
-# git-commit-details
+# Git-Commit-Client
